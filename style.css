@@ -1,0 +1,72 @@
+.logo {
+    width: 100px;
+}
+
+.text-middle {
+    margin-top: 50px;
+}
+
+.img-lily {
+    width: 200px;
+}
+.img-sunflower {
+    width: 200px;
+    
+}
+
+.img-cat {
+    width: 200px;
+
+}
+
+.middle {
+    float: left;
+    
+}
+
+
+/*
+body {
+    
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+
+}
+  
+body {
+    background-color: #fefaf6;
+    position:relative;
+    width: 100%;
+
+}
+
+
+
+.image, embed, object, video {
+    max-width: 100%;
+}
+.top-title {
+    color: #98aaf8;
+    font-family: serif;
+    font-weight: 100;
+    font-size: 3.5em;
+    text-transform: uppercase;
+
+}
+
+.img {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+.lily, .sunflower, .cat {
+    max-width: 100%;
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+
+}
+
+*/
